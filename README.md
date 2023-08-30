@@ -1,16 +1,25 @@
 Hi 👋 My name is Khush Patel.
 =============================
 
-UI/UX Designer & Front-End Developer
+Data Analyst & UI/UX Designer
 ------------------------------------
 
-Proudly saying that I'm a Self-taught UI/UX Designer based in Ahmedabad, passionate about creating result oriented user experience and user interfaces and my primary goal is to provide a rich engaging and innovative user experience to the user. I have overall 2+ years of experience in UI/UX design, conceptualization and delivery of service design and product design for web and mobile.
+My passion for digital exploration led me to freelance graphic design in 2017. My passion for design and technology shaped my journey.
 
-* 🌍  I'm based in Ahmedabad, India
-* 🖥️  See my portfolio at [Khush Patel](http://behance.net/khushpatel8)
+I earned a Bachelor of Computer Engineering in 2018–2022 to strengthen my craft. I was a UI/UX designer for a startup in Ahmedabad, India, during this key moment. Self-taught designer, I created seamless user experiences and appealing visuals that matched the company's goal.
+
+I travelled from India's stunning coastlines and landscapes to Adelaide's tranquil downtown. Joining the acclaimed MSc Data Science curriculum was a new chapter. When data and intellect collided, I studied science and data analysis.
+
+Data Analyst and Data Scientist, I combine creativity with analytics. I seek solutions that turn raw data into strategic gold with a design-trained eye and a mind that understands data's story.
+
+Join this digital adventure. Experience the thrill of design, data, and discovery with us. 🌟
+
+
+* 🌍  I'm based in Adelaide, SA
+* 🖥️  See my UI/UX portfolio at [Khush Patel](http://behance.net/khushpatel8)
 * ✉️  You can contact me at [workforkhush8@gmail.com](mailto:workforkhush8@gmail.com)
 * 🚀  I'm currently working on [Personal Portfolio](http://khusshhhhh.github.io/portfolio1)
-* 🧠  I'm learning to master Front-End Developing.
+* 🧠  I'm learning Data Engineering.
 * 🤝  I'm open to collaborating on UI/UX and Web Designing.
 
 <a href="https://www.github.com/khusshhhhh" target="_blank" rel="noreferrer"><img
