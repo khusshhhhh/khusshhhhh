@@ -2,7 +2,7 @@
 <h3 align="center">UI/UX Designer turned into Data Analyst</h3>
 
 My passion for digital exploration led me to freelance graphic design in 2017. My passion for design and technology shaped my journey.
-
+<br>
 I earned a Bachelor of Computer Engineering in 2018–2022 to strengthen my craft. I was a UI/UX designer for a startup in Ahmedabad, India, during this key moment. Self-taught designer, I created seamless user experiences and appealing visuals that matched the company's goal.
 
 I travelled from India's stunning coastlines and landscapes to Adelaide's tranquil downtown. Joining the acclaimed MSc Data Science curriculum was a new chapter. When data and intellect collided, I studied science and data analysis.
