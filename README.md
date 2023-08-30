@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khush Patel.</h1>
 <h3 align="center">UI/UX Designer turned into Data Analyst</h3>
+
 My passion for digital exploration led me to freelance graphic design in 2017. My passion for design and technology shaped my journey.
 
 I earned a Bachelor of Computer Engineering in 2018–2022 to strengthen my craft. I was a UI/UX designer for a startup in Ahmedabad, India, during this key moment. Self-taught designer, I created seamless user experiences and appealing visuals that matched the company's goal.
