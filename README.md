@@ -5,7 +5,7 @@ My passion for digital exploration led me to freelance graphic design in 2017. M
 <br>
 I earned a Bachelor of Computer Engineering in 2018–2022 to strengthen my craft. I was a UI/UX designer for a startup in Ahmedabad, India, during this key moment. Self-taught designer, I created seamless user experiences and appealing visuals that matched the company's goal.
 
-I travelled from India's stunning coastlines and landscapes to Adelaide's tranquil downtown. Joining the acclaimed MSc Data Science curriculum was a new chapter. When data and intellect collided, I studied science and data analysis.
+I travelled from India's stunning coastlines and landscapes to Adelaide's tranquil downtown. Joining the acclaimed Masters of Data Science curriculum was a new chapter. When data and intellect collided, I studied science and data analysis.
 
 Data Analyst and Data Scientist, I combine creativity with analytics. I seek solutions that turn raw data into strategic gold with a design-trained eye and a mind that understands data's story.
 
