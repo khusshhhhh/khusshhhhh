@@ -11,7 +11,7 @@ Data Analyst and Data Scientist, I combine creativity with analytics. I seek sol
 
 Join this digital adventure. Experience the thrill of design, data, and discovery with us. 🌟
 
-- 🔭 I’m currently working on **Stock Market Analysis.**
+- 🔭 I’m currently working on various **Data Analysis and Prediction with AI/ML.**
 
 - 🌱 I’m currently learning **Data Engineering and Machine Learning.**
 
